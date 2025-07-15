@@ -37,3 +37,8 @@ An intelligent AI agent-driven trip planner that helps users design customized t
 
 ### Run App:
         streamlit run my_app_2.py
+
+## Demo
+![img_3.png](img_3.png)
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
